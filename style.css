@@ -59,9 +59,12 @@ body {
   user-select: none;
 }
 
-.clickable:hover {
+
+
+.nav:hover{
   color: rgb(255, 255, 255);
   transform: scale(1.2);
+
 }
 
 /* Images Container */
